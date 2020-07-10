@@ -1,6 +1,17 @@
 baseURL = "https://cybergoat.tech/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Cybergoat Technologies"
 theme = "m10c"
 publishDir = "/var/www/html/blog"
-avatar = "goat_avatar.png"
+
+[params]
+avatar = "images/goat_avatar.png"
+author = "Diana"
+description = "Goats in space"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/crunsher"
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/thecrunsher"
