@@ -1,15 +1,11 @@
 ---
 title: "Hello World"
-date: 2020-07-03T16:44:29Z
-draft: true
+date: 2020-07-12T16:44:29Z
 ---
 
-# Header?
+# I have a blog now
 
-1. 1
-2. 2
-3. 3
+Now nobody will be safe from my opinions!
 
-[wikipedia](https://wikipedia.org)
-
+![Praise Lain](/images/lain.jpg)
 
